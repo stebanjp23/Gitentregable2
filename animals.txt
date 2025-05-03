@@ -3,3 +3,4 @@ tigre
 leopardo
 tortuga
 perro
+jirafa, ornitorrinco
